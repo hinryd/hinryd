@@ -16,4 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   8 hrs 20 mins   █████████████▒░░░░░░░░░░░   53.45 % 
+Vue.js       2 hrs 54 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.69 % 
+Svelte       1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
+JavaScript   1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+CSS          24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+```
 <!--END_SECTION:waka-->
