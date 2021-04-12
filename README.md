@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Henry!
 
 <!--
 **hinryd/hinryd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Weekly Stats
 <!--START_SECTION:waka-->
 ```text
 TypeScript   8 hrs 20 mins   █████████████▒░░░░░░░░░░░   53.45 % 
