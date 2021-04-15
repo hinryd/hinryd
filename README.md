@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 Weekly Stats
 <!--START_SECTION:waka-->
 ```text
-Vue.js       9 hrs 57 mins   █████████░░░░░░░░░░░░░░░░   35.60 % 
-TypeScript   9 hrs 2 mins    ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Svelte       3 hrs 39 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-JavaScript   3 hrs 23 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-JSON         52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+TypeScript   9 hrs 55 mins   ███████▒░░░░░░░░░░░░░░░░░   29.18 % 
+Vue.js       9 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   28.90 % 
+Svelte       7 hrs 35 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.31 % 
+JavaScript   4 hrs 26 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+JSON         57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
 ```
 <!--END_SECTION:waka-->
