@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" height="200px"/><img src="https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif" height="200px"/><img src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif" height="200px"/>
+<div align="center"><img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" height="200px"/><img src="https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif" height="200px"/><img src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif" height="200px"/></div>
 
 ## 🧠 Tech <img align="right" src="https://img.shields.io/badge/Novice-critical?style=for-the-badge" /><img align="right" src="https://img.shields.io/badge/Intermediate-yellow?style=for-the-badge" /><img align="right" src="https://img.shields.io/badge/Proficient-brightgreen?style=for-the-badge" />
 
