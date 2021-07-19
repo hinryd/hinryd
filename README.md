@@ -4,6 +4,7 @@
 
 ![](https://img.shields.io/badge/-javascript-brightgreen?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/-typescript-brightgreen?style=for-the-badge&logo=typescript)
+![](https://img.shields.io/badge/-python-brightgreen?style=for-the-badge&logo=python)
 ![](https://img.shields.io/badge/-react-brightgreen?style=for-the-badge&logo=react)
 ![](https://img.shields.io/badge/-vue-brightgreen?style=for-the-badge&logo=vue.js)
 ![](https://img.shields.io/badge/-svelte-brightgreen?style=for-the-badge&logo=svelte)
@@ -13,13 +14,13 @@
 ![](https://img.shields.io/badge/-git-brightgreen?style=for-the-badge&logo=git)
 ![](https://img.shields.io/badge/-vscode-brightgreen?style=for-the-badge&logo=visualstudiocode)
 ![](https://img.shields.io/badge/-zsh-brightgreen?style=for-the-badge&logo=gnubash)
-![](https://img.shields.io/badge/-python-yellow?style=for-the-badge&logo=python)
-![](https://img.shields.io/badge/-dart-yellow?style=for-the-badge&logo=dart)
-![](https://img.shields.io/badge/-flutter-yellow?style=for-the-badge&logo=flutter)
 ![](https://img.shields.io/badge/-mysql-yellow?style=for-the-badge&logo=mysql)
 ![](https://img.shields.io/badge/-postgresql-yellow?style=for-the-badge&logo=postgresql)
+![](https://img.shields.io/badge/-heroku-yellow?style=for-the-badge&logo=heroku)
 ![](https://img.shields.io/badge/-firebase-yellow?style=for-the-badge&logo=firebase)
 ![](https://img.shields.io/badge/-rust-critical?style=for-the-badge&logo=rust)
+![](https://img.shields.io/badge/-dart-critical?style=for-the-badge&logo=dart)
+![](https://img.shields.io/badge/-flutter-critical?style=for-the-badge&logo=flutter)
 ![](https://img.shields.io/badge/-kubernetes-critical?style=for-the-badge&logo=kubernetes)
 
 
