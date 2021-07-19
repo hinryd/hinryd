@@ -1,4 +1,4 @@
-<img align="center" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="200px"/>
+<img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" height="200px"/><img src="https://media.giphy.com/media/uzglgIsyY1Cgg/giphy.gif" height="200px"/><img src="https://media.giphy.com/media/JuFwy0zPzd6jC/giphy.gif" height="200px"/>
 
 ## 🧠 Tech <img align="right" src="https://img.shields.io/badge/Novice-critical?style=for-the-badge" /><img align="right" src="https://img.shields.io/badge/Intermediate-yellow?style=for-the-badge" /><img align="right" src="https://img.shields.io/badge/Proficient-brightgreen?style=for-the-badge" />
 
@@ -23,8 +23,8 @@
 ![](https://img.shields.io/badge/-kubernetes-critical?style=for-the-badge&logo=kubernetes)
 
 
-## 🕒 Stats
-![](https://github-readme-stats.vercel.app/api/wakatime?username=@hinryd&layout=compact&theme=tokyonight)
+## 🕒 Weekly stats
+![](https://github-readme-stats.vercel.app/api/wakatime?username=hinryd&layout=compact&theme=tokyonight&hide_title=true)
 
 
 
