@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/-vue-brightgreen?style=for-the-badge&logo=vue.js)
 ![](https://img.shields.io/badge/-svelte-brightgreen?style=for-the-badge&logo=svelte)
 ![](https://img.shields.io/badge/-node-brightgreen?style=for-the-badge&logo=nodedotjs)
+![](https://img.shields.io/badge/-selenium-brightgreen?style=for-the-badge&logo=selenium)
 ![](https://img.shields.io/badge/-mongodb-brightgreen?style=for-the-badge&logo=mongodb)
 ![](https://img.shields.io/badge/-docker-brightgreen?style=for-the-badge&logo=docker)
 ![](https://img.shields.io/badge/-git-brightgreen?style=for-the-badge&logo=git)
