@@ -1,4 +1,4 @@
-<div align="center"><img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" height="200px"/></div>
+<div align="center"><img src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" height="200px" width="600px"/></div>
 
 ## 🧠 Tech <div align="right"><img src="https://img.shields.io/badge/Proficient-brightgreen?style=for-the-badge" /><img src="https://img.shields.io/badge/Intermediate-yellow?style=for-the-badge" /><img src="https://img.shields.io/badge/Novice-critical?style=for-the-badge" /></div>
 
