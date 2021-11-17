@@ -1,6 +1,5 @@
 #### 🤦‍♂️ About me
 - 🌱 I’m currently learning: **[fp-ts](https://gcanti.github.io/fp-ts/)**, **[6502 assembly](https://bugzmanov.github.io/nes_ebook/chapter_1.html)** and **[pytorch](https://pytorch.org/)**
-- 📫 Reach me at: **me@hinry.dev**
 
 #### 💻 Lang
 ![](https://img.shields.io/badge/-React-000?&logo=react)
