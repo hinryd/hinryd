@@ -1,7 +1,4 @@
-#### 🤦‍♂️ About me
-- 🌱 I’m currently learning: **[fp-ts](https://gcanti.github.io/fp-ts/)**, **[6502 assembly](https://bugzmanov.github.io/nes_ebook/chapter_1.html)** and **[pytorch](https://pytorch.org/)**
-
-#### 💻 Lang
+#### 💻 Techs
 ![](https://img.shields.io/badge/-React-000?&logo=react)
 ![](https://img.shields.io/badge/-Vue-000?&logo=vue.js)
 ![](https://img.shields.io/badge/-Svelte-000?&logo=svelte)
@@ -10,5 +7,5 @@
 ![](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![](https://img.shields.io/badge/-Rust-000?&logo=rust)
 
-#### 🕒 Weekly stats
+#### 🕒 This week
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=hinryd&layout=compact&theme=merko&hide_title=true)
