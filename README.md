@@ -12,19 +12,16 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=flutter)
 ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)
 
-> "She's in the past... And the past is not my concern." - Thomas Shelby
+> ### "When you plan something well, there's no need to rush." - Thomas Shelby
 
-<details>
-<summary>Random Facts</summary>
+#### Random Facts
 
-- gym 6 times a week
-- opencode is the better claude code
-- coke zero > coke regular
-- I cope with AI about my breakups
+- 🏋️ gym rat (when I'm not vibing)
+- 💻 opencode is the better claude code
+- 🥤 coke zero > coke regular
+- 🤖 I cope with AI about my breakups
 
-</details>
-
-### Projects
+#### Projects
 
 - 🚀 **[Spaced](https://github.com/hinryd/spaced)** - A Flutter library that add gaps inside your `Flex`box
 - 👻 **[Wavez](https://github.com/hinryd/wavez)** - Colored noise generator for focus, masking, and sound design
