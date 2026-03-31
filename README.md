@@ -23,8 +23,10 @@
 
 #### Projects
 
-- 🚀 **[Spaced](https://github.com/hinryd/spaced)** - A Flutter library that add gaps inside your `Flex`box
-- 👻 **[Wavez](https://github.com/hinryd/wavez)** - Colored noise generator for focus, masking, and sound design
-- 👉 **[v7](https://github.com/hinryd/v7)** - Newest iteration of my portfolio
-- 🚦 **[hn-svelte](https://github.com/hinryd/hn-svelte)** - Hacker News client built with Svelte
+- 🃏 **[Pokerbot](https://pokerbot.hinry.xyz)** - A Heads-up NL Texas Hold'em trainer
+- 🚀 **[Spaced](https://pub.dev/packages/spaced)** - A Flutter library that add gaps inside your `Flex`box
+- 👻 **[Wavez](https://wavez.hinry.xyz)** - Colored noise generator for focus, masking, and sound design
+- 👉 **[v7](https://hinry.xyz)** - Newest iteration of my portfolio
+- 🚦 **[hn-svelte](https://hn-svelte-omega.vercel.app)** - Hacker News client built with Svelte
+- 👾 **[brawl-king](https://brawlking.vercel.app)** - A really quick reference to current competitive Brawl Star information
 - 🗣️ **[sfexpress-api](https://github.com/hinryd/sfexpress-api)** - A Django web application for accessing SF Express locker and shop locations with a user-friendly dashboard, API key management, and credit system.
