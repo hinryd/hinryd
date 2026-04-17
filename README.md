@@ -23,6 +23,7 @@
 
 #### Projects
 
+- 🛜 **[router67](https://github.com/hinryd/router67)** - A tiny local daemon that routes LLM API calls to whichever provider can serve them
 - 🃏 **[Pokerbot](https://pokerbot.hinry.xyz)** - A Heads-up NL Texas Hold'em trainer
 - 🚀 **[Spaced](https://pub.dev/packages/spaced)** - A Flutter library that add gaps inside your `Flex`box
 - 👻 **[Wavez](https://wavez.hinry.xyz)** - Colored noise generator for focus, masking, and sound design
